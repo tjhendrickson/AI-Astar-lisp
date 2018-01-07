@@ -1,6 +1,8 @@
 ; Author - Timothy Hendrickson
 ; Date - December 7, 2017
 
+; set up 8-puzzle problem state space
+
 ; load needed script/s
 (load "a_star_search_8_puzzle.lsp")
 
