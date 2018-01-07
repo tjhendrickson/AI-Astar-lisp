@@ -1,6 +1,8 @@
 ; Author - Timothy Hendrickson
 ; Date - December 7, 2017
 
+; missionaries and cannibals state space, modified from Russell and Norvig. 
+
 ;; load needed script a_star_search_cannibals.lsp
 (load "a_star_search_cannibals.lsp")
 
