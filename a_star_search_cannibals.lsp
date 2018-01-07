@@ -1,6 +1,8 @@
 ; Author - Timothy Hendrickson
 ; Date - December 7, 2017
 
+; a-star algorithm implementation with cannibals and missionaries problem state space
+
 ; generate lisp structure "problem" similar to problem formulation set up pg 66
 (defstruct problem initial-state goal-state node-expansions)
 
